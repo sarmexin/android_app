@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">letter</string>
+    <string name="description">Тестовое приложение</string>
+    <string name="button_1">кнопка 1</string>
+    <string name="button_2">кнопка 2</string>
+    <string name="hello">Hello</string>
+    <string name="work1">нажата кнопка 1</string>
+    <string name="work2">нажата кнопка 2</string>
+</resources>
